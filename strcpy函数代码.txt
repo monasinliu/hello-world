@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+/*
+修改本地
+*/
+
 char * strcpy(char *dst,const char *src)
 {
 	if(dst != null && src != null) 
