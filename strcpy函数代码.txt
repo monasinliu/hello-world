@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+/*
+在线编辑部分
+*/
 char * strcpy(char *dst,const char *src)
 {
 	if(dst != null && src != null) 
