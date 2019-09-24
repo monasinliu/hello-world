@@ -1,0 +1,18 @@
+#include<stdio.h>
+
+char * strcpy(char *dst,const char *src)
+{
+	if(dst != null && src != null) 
+	{
+		char *ret = dst;
+		while((*dst ++= *src ++)!= '\0');
+		return ret;
+	} else {
+		return null;
+	}
+}
+
+int main(void)
+{
+	return 0;
+}
