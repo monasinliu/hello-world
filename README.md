@@ -1,3 +1,1 @@
-# windowsTest
-
-* 添加txt文件 2019.9.24
+[![Build Status](https://travis-ci.com/monasinliu/windowsTest.svg?branch=master)](https://travis-ci.com/monasinliu/windowsTest)
